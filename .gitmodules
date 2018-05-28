@@ -1,0 +1,6 @@
+[submodule "git"]
+	path = git
+	url = git://github.com/gin-gonic/gin.git
+[submodule "gin"]
+	path = gin
+	url = git://github.com/gin-gonic/gin.git

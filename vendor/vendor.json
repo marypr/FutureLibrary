@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.9.6"
+	},
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/gin-gonic/gin.git",
+			"revision": ""
+		}
+	],
+	"rootPath": "library/FutureLibrary/FutureLibrary/FutureLibrary"
+}
